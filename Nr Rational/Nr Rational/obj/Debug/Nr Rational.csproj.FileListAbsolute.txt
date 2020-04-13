@@ -1,0 +1,6 @@
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\obj\Debug\Nr Rational.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\bin\Debug\Nr Rational.exe.config
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\bin\Debug\Nr Rational.exe
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\bin\Debug\Nr Rational.pdb
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\obj\Debug\Nr Rational.exe
+D:\Ale\faculta\CURS POO\Nr Rational\Nr Rational\obj\Debug\Nr Rational.pdb
