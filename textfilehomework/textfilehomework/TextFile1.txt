@@ -1,0 +1,11 @@
+﻿Scrieti un program C# care primeste ca argument in linia de comanda un fiser text. 
+
+Programul va citi toate caracterele din fisier si va afisa la final o statistica privind:
+
+numarul total de caractere din fisier
+numarul total de vocale din fisier
+numarul total de consoane din fisier
+numarul total de linii din fisier 
+Precizari:
+
+Solutia va fi incarcata intr-un singur fisier cu extensia .cs

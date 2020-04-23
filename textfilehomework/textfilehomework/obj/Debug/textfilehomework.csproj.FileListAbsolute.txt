@@ -1,0 +1,6 @@
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\bin\Debug\textfilehomework.exe.config
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\bin\Debug\textfilehomework.exe
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\bin\Debug\textfilehomework.pdb
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\obj\Debug\textfilehomework.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\obj\Debug\textfilehomework.exe
+D:\Ale\faculta\CURS POO\textfilehomework\textfilehomework\obj\Debug\textfilehomework.pdb
