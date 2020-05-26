@@ -1,7 +1,4 @@
 ﻿Bush,George
 Williams,Serena
-Trump Donald
+TrumpDonald
 Foster Michael
-Anderson Rebecca
-Anderson Michael
-foster mikey
