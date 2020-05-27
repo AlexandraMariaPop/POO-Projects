@@ -4,3 +4,9 @@ D:\Ale\faculta\CURS POO\Sortare localizata\Sortare localizata\bin\Debug\Sortare 
 D:\Ale\faculta\CURS POO\Sortare localizata\Sortare localizata\bin\Debug\Sortare localizata.pdb
 D:\Ale\faculta\CURS POO\Sortare localizata\Sortare localizata\obj\Debug\Sortare localizata.exe
 D:\Ale\faculta\CURS POO\Sortare localizata\Sortare localizata\obj\Debug\Sortare localizata.pdb
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\bin\Debug\Sortare localizata.exe.config
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\bin\Debug\Sortare localizata.exe
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\bin\Debug\Sortare localizata.pdb
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\obj\Debug\Sortare localizata.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\obj\Debug\Sortare localizata.exe
+D:\Ale\faculta\CURS POO\Projects\Sortare localizata\Sortare localizata\obj\Debug\Sortare localizata.pdb

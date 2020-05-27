@@ -10,19 +10,19 @@ namespace Sortare_localizata
     {
         static void Main(string[] args)
         {
-            //List<Person> lines = ReadPeopleFromFile("..\..\people.csv");
-           
 
-            Person p1 = new Person("pop", "alexandra", "maria", "pop");
             List<Person> read = ReadPeopleFromFile.GetPeopleFromFile();
-            foreach (Person p in read)
+            for (int i = 0; i < read.Count; i++)
             {
-               // Person aux = p.Formatname();
-                Console.WriteLine(p);
+                read[i] = read[i].Formatname();
+                Console.WriteLine(read[i]);
             }
             Console.WriteLine();
-            //p1.Formatname();
-            Console.WriteLine(p1.Formatname());
+            read.Sort();
+            foreach (var item in read)
+            {
+                Console.WriteLine(item);
+            }
             Console.ReadKey();
         }
     }
