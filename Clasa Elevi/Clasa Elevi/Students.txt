@@ -1,0 +1,4 @@
+﻿williams SERENA 4 10 7 5 6
+trUmp DonAld 3 4 4 4
+foster MIchael 3 10 9 7
+Williams Venus 4 10 7 5 6
