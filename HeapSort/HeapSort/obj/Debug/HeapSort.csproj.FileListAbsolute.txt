@@ -1,0 +1,6 @@
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\obj\Debug\HeapSort.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+D:\Ale\faculta\CURS POO\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
