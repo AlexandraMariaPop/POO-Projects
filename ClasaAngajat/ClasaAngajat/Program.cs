@@ -31,9 +31,10 @@ namespace ClasaAngajat
             Console.WriteLine("VECHIME");
             for (int i = 0; i < initial.Length; i++)
             {
-                Console.WriteLine($"{initial[i].LastName } {initial[i].FirstName} VECHIME: {DateTime.Now - initial[i].Date}");
-                Console.WriteLine(DateTime.Now-initial[i].Date);
-                vechime.Add($"{initial[i].LastName } {initial[i].FirstName} VECHIME: {DateTime.Now - initial[i].Date}");
+                TimeSpan s1 = DateTime.Now.Subtract(initial[i].Date);
+                Console.WriteLine($"{initial[i].LastName } {initial[i].FirstName} VECHIME: {s1} Zile");
+                //Console.WriteLine(DateTime.Now-initial[i].Date);
+                vechime.Add($"{initial[i].LastName } {initial[i].FirstName} VECHIME: {s1} zile");
 
             }
             TextWriter tw2 = new StreamWriter(@"..\..\Vechime.txt");

@@ -5,3 +5,10 @@ D:\Ale\faculta\CURS POO\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.exe
 D:\Ale\faculta\CURS POO\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.pdb
 D:\Ale\faculta\CURS POO\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.exe
 D:\Ale\faculta\CURS POO\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.pdb
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.exe.config
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.exe
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\bin\Debug\ClasaAngajat.pdb
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.csproj.CoreCompileInputs.cache
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.exe
+D:\Ale\faculta\CURS POO\Projects\ClasaAngajat\ClasaAngajat\obj\Debug\ClasaAngajat.pdb
