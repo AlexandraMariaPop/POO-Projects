@@ -1,0 +1,7 @@
+D:\Ale\faculta\CURS POO\Publisher\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+D:\Ale\faculta\CURS POO\Publisher\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\Ale\faculta\CURS POO\Publisher\Publisher\bin\Debug\Publisher.exe.config
+D:\Ale\faculta\CURS POO\Publisher\Publisher\bin\Debug\Publisher.exe
+D:\Ale\faculta\CURS POO\Publisher\Publisher\bin\Debug\Publisher.pdb
+D:\Ale\faculta\CURS POO\Publisher\Publisher\obj\Debug\Publisher.exe
+D:\Ale\faculta\CURS POO\Publisher\Publisher\obj\Debug\Publisher.pdb
