@@ -21,7 +21,7 @@ namespace Complex
         {
             double r = System.Math.Sqrt(Re * Re + Im * Im);
             double teta = System.Math.Atan(Im / Re);
-            System.Console.WriteLine($" Forma trigonometrica : {r * pow}(cos({teta * pow})+isin({teta * pow}))");
+            System.Console.WriteLine($" Forma trigonometrica : {Math.Pow(r,pow)}(cos({teta * pow})+isin({teta * pow}))");
         }
         public double Distance()
         {

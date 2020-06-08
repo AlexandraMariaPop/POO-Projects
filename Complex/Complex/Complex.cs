@@ -64,8 +64,8 @@ namespace Complex
 
             double r = System.Math.Sqrt(Re * Re + Im * Im);
             double teta = System.Math.Atan(Im / Re);
-            result.Re = (int)(r * power * (System.Math.Cos(teta * power)));
-            result.Im = (int)(r * power * (System.Math.Sin(teta * power)));
+            result.Re = (int)(Math.Pow(r, power) * (System.Math.Cos(teta * power)));
+            result.Im = (int)(Math.Pow(r, power) * (System.Math.Sin(teta * power)));
 
             Console.WriteLine(result);
             
